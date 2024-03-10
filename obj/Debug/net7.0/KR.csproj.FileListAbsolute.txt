@@ -1,0 +1,14 @@
+C:\Users\Admin\KR\bin\Debug\net7.0\KR.exe
+C:\Users\Admin\KR\bin\Debug\net7.0\KR.deps.json
+C:\Users\Admin\KR\bin\Debug\net7.0\KR.runtimeconfig.json
+C:\Users\Admin\KR\bin\Debug\net7.0\KR.dll
+C:\Users\Admin\KR\bin\Debug\net7.0\KR.pdb
+C:\Users\Admin\KR\obj\Debug\net7.0\KR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\KR\obj\Debug\net7.0\KR.AssemblyInfoInputs.cache
+C:\Users\Admin\KR\obj\Debug\net7.0\KR.AssemblyInfo.cs
+C:\Users\Admin\KR\obj\Debug\net7.0\KR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\KR\obj\Debug\net7.0\KR.dll
+C:\Users\Admin\KR\obj\Debug\net7.0\refint\KR.dll
+C:\Users\Admin\KR\obj\Debug\net7.0\KR.pdb
+C:\Users\Admin\KR\obj\Debug\net7.0\KR.genruntimeconfig.cache
+C:\Users\Admin\KR\obj\Debug\net7.0\ref\KR.dll
